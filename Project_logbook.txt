@@ -3,3 +3,5 @@ Project Title: Using Generative AI Tools – Boon or Bane
 This project investigates the potential benefits and disadvantages of generative AI tools. The research team will collect and analyse quantitative and qualitative data. Team members will collaborate through GitHub using branches and pull requests.
 
 Logbook entry – 16 September 2026: The project group has been formed with one code reviewer and two code developers. The repository structure has been set up, and all future changes will be made on separate branches and merged through pull requests.
+My name is Jianshuo Liu and my student number is 48793434.
+This is branch, and My hobby is playing games.
