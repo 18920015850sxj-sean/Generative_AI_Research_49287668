@@ -1,0 +1,5 @@
+Project Logbook
+
+Project Title: Using Generative AI Tools – Boon or Bane
+
+This project investigates the potential benefits and disadvantages of generative AI tools. The research team will collect and analyse quantitative and qualitative data. Team members will collaborate through GitHub using branches and pull requests.nano Project_logbook.txt
